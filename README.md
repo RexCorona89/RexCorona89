@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RexCorona89
-- 👀 I’m interested in ... To program
-- 🌱 I’m currently learning ... Learning and Python and Java, web services  and  SQL.
+- 👀 I’m interested in ... programming
+- 🌱 I’m currently learning ... Python, Java, web services  and  SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
